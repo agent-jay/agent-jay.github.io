@@ -258,7 +258,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
   # _pages
@@ -268,5 +268,18 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: paper_reviews
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
+collections:
+    paper_reviews:
+        output: true
+        permalink: /:collection/:path/
 
 remote_theme: mmistakes/minimal-mistakes

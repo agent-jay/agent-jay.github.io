@@ -2,9 +2,9 @@
 main:
   - title: "Blog"
     url: /
+  - title: "Paper Reviews"
+    url: /paper_reviews/
   - title: "About"
     url: /about/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
