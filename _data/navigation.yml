@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Blog"
+    url: /
+  - title: "About"
+    url: /about/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
