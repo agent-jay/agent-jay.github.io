@@ -1,5 +1,6 @@
 ---
 title: Jupyter Lab
+tag: Jupyter
 ---
 
 Jupyter Lab got it's [Beta release](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906?gi=b36b7db07c5c)

@@ -20,9 +20,9 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname            : https-agent-jay-github-io. # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "siddarthjay" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -268,7 +268,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _portfolio
+  # _paper_reviews
   - scope:
       path: ""
       type: paper_reviews
@@ -276,6 +276,15 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      classes: wide
+
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
 collections:
     paper_reviews:

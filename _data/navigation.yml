@@ -1,10 +1,14 @@
 # main links
 main:
+  - title: "About"
+    url: /about/
   - title: "Blog"
     url: /
   - title: "Paper Reviews"
     url: /paper_reviews/
-  - title: "About"
-    url: /about/
+  #- title: "Categories"
+  #  url: /categories/
+  - title: "Tags"
+    url: /tags/
   # - title: "Sitemap"
   #   url: /sitemap/

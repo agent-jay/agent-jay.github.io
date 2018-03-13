@@ -2,6 +2,7 @@
 title: Setting up a Jupyter Lab remote server
 classes: wide
 toc: true
+tag: Jupyter
 ---
 
 If you haven't yet used [Jupyter Lab]({{ site.baseurl }}{% post_url 2018-03-06-jupyterlab %})
