@@ -1,6 +1,10 @@
 ---
 title: Jupyter Lab
 tag: Jupyter
+header: 
+    image: /assets/images/jupyter.png
+    caption: "Credit: Project Jupyter"
+classes: wide
 ---
 
 Jupyter Lab got it's [Beta release](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906?gi=b36b7db07c5c)
@@ -24,6 +28,32 @@ A few of the said goodies:
 - More powerful extention system- there's a
   [plugin](https://github.com/jupyterlab/jupyterlab-google-drive) that allows
   real-time collaboration via Google Drive!
+
+## Screenshots
+
+<figure class="align-center" style="width:1200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jupyterlab/jupyterlab_sc1.png" alt="">
+  <figcaption>Multiple panes- file browser, notebook, terminal</figcaption>
+</figure> 
+
+<figure class="align-center" style="width:1200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jupyterlab/jupyterlab_sc2.png" alt="">
+  <figcaption>Multiple views of the same notebook, one with code and the other with results</figcaption>
+</figure> 
+
+
+<figure class="align-center" style= "width:1200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jupyterlab/jupyterlab_sc4.png" alt="">
+  <figcaption>Tie an editor to a console window. And view large csvs, no sweat!</figcaption>
+</figure> 
+
+<figure class="align-center" style= "width:600px">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/jupyterlab/jupyterlab_sc3.png" alt="">
+  <figcaption>Autosuggest now provides useful type information</figcaption>
+</figure> 
+
+
+## Conclusion
 
 Read more about it
 [here](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906?gi=b36b7db07c5c)
