@@ -8,7 +8,7 @@ main:
     url: /paper_reviews/
   #- title: "Categories"
   #  url: /categories/
-  - title: "Tags"
+  - title: "Posts by Tag"
     url: /tags/
   # - title: "Sitemap"
   #   url: /sitemap/
