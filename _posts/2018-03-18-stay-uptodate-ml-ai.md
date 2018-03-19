@@ -5,7 +5,7 @@ tags: learn
 ---
 
 I've had friends ask me how they can get started in Machine Learning, Deep
-Learning, NLP etc and this is the answer I usually give them- read more. Read
+Learning, NLP etc. and this is the answer I usually give them- read more. Read
 widely and read regularly. And don't stress so much about the results. As
 Andrew Ng says-
 
@@ -22,8 +22,13 @@ Andrew Ng says-
   
 I've always found that following newsletters and feeds help to keep me in the
 loop with respect to books, new papers, industry news, tech, online classes,
-etc. And they often help me find other blogs, which then help me find other
-blogs, which then help me find other...
+etc. And they often help me find other things to read, which then help me find
+other...
+
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/rabbithole.jpg" alt="">
+  <figcaption>Tumbling down the rabbit hole that is the Internet</figcaption>
+</figure> 
 
 Without further ado, here's my list of preferred ML/AI feeds:
 
@@ -44,6 +49,9 @@ The business of AI:
 
 - [a16z](https://a16z.com/)- Andreessen Horowitz's VC firm has a newsletter that
   covers AI and other tech happenings
+- [Nathan Benaich](https://www.getrevue.co/profile/nathanbenaich/) does huge
+  posts covering quarterly AI trends in technology, research and the venture
+  capital market
 - [Benedict Evans](https://www.ben-evans.com/newsletter/) 
 
 ## Twitter
@@ -89,7 +97,7 @@ Of course, this is if you just want to know more in general. As one of my
 professors says, it always helps to have a motivating question when learning
 something. Then you'll figure out what you need to do to fill in the blanks.
 If you're looking for more targeted information, you might want to check out
-my [list of recommended MOOCs]({{ site.baseurl }}{% post_url 2018-03-13-moocs %})
+my [list of recommended MOOCs]({{ site.baseurl }}{% post_url 2018-03-19-moocs %})
 
 So that's a wrap. I'll keep adding more links to this list as and when I find
 new content. Anyway, let me know in the comments if there are any great
