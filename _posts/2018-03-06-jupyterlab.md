@@ -61,3 +61,6 @@ and if you have more time, [this video](https://www.youtube.com/watch?v=w7jq4Xgw
 devs is a great walk-through of the nifty new features.
 
 **Try it live with [Binder](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/18a9793b58ba86660b5ab964e1aeaf7324d667c8?urlpath=lab%2Ftree%2Fdemo%2FLorenz.ipynb)**
+
+*Update:* If you're planning on setting up a Juypter server for remote
+access, look at my newer [post]({{ site.baseurl }}{% post_url 2018-03-07-jupyterserver %})
