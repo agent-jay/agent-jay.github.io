@@ -102,3 +102,9 @@ my [list of recommended MOOCs]({{ site.baseurl }}{% post_url 2018-03-19-moocs %}
 So that's a wrap. I'll keep adding more links to this list as and when I find
 new content. Anyway, let me know in the comments if there are any great
 newsletters/feeds that help you stay in the know.
+
+
+***Update:*** Sandeep Kandukuri on LinkedIn suggested I add the [Machine Learning
+subreddit](https://www.reddit.com/r/MachineLearning/). I have to agree that
+it's a great source of information that I don't find anywhere else. Especially
+their AMAs like [this](https://www.reddit.com/r/MachineLearning/comments/7yi3yr/n_lecun_horvitz_and_norvig_ama_on_rscience/) and [this](https://www.reddit.com/r/MachineLearning/comments/6z51xb/we_are_the_google_brain_team_wed_love_to_answer/).
