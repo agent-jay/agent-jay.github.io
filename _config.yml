@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Kernel of Truth"
 title_separator          : "|"
 name                     : "Siddarth Jay"
-description              : "Siddarth Jayamoorthy's Personal Website"
+description              : "Siddarth Jayamoorthy's Nerd Blog"
 url                      : "https://agent-jay.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "agent-jay/agent-jay.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -92,11 +92,11 @@ analytics:
 author:
   name             : "Siddarth Jay"
   avatar           : "/assets/images/headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "AI Nerd"
+  bio              : "Digital Shaman"
   location         : "Indiana University"
   email            : "siddarth jay 92 at gmail dot com"
-  uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
+  uri              : 
+  home             : "https://siddarthjay.com/" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
